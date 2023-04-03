@@ -54,7 +54,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _ScrollSpeed: 0.18
+    - _ScrollSpeed: 0.15
     m_Colors:
     - _BaseColor: {r: 0.9056604, g: 0.30580848, b: 0.10594506, a: 0}
     - _FresnelColor: {r: 23.968628, g: 4.266667, b: 0, a: 0}
